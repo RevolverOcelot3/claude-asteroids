@@ -1,4 +1,7 @@
 # Asteroids
+# Instrucciones:
+instala [Node.js](https://nodejs.org/) y luego ejecuta `npx serve .` para correr un servidor local. Abre `http://localhost:3000` en tu navegador.
+
 
 Clon del clásico arcade **Asteroids** implementado en canvas HTML5 puro, sin dependencias ni bundler.
 
